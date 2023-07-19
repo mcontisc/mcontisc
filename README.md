@@ -8,6 +8,8 @@ I am a Ph.D. student at the <a href="https://is.mpg.de/">Max Planck Institute fo
 
 📫 For any question, please do not hesitate to get in touch at: [martina.contisciani@tuebingen.mpg.de](mailto:martina.contisciani@tuebingen.mpg.de?subject=Get%20in%20touch)
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mcontisc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mcontisc/github-readme-stats#gh-dark-mode-only)
+
 <!--
 **mcontisc/mcontisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

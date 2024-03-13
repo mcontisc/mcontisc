@@ -1,12 +1,14 @@
 ### Hi 👋 I am Martina!  
 
-I am a Ph.D. student at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> (Tübingen, Germany), working under the supervision of <a href="https://www.cdebacco.com/">Caterina De Bacco</a>. My Ph.D. is supported by <a href="https://cyber-valley.de/">Cyber Valley</a> and by the <a href="https://imprs.is.mpg.de/">International Max Planck Research School for Intelligent Systems</a> (IMPRS-IS), which is also affiliated to the <a href="https://uni-tuebingen.de/">University of Tübingen</a>.
+I am a postdoctoral researcher at the <a href="https://networkdatascience.ceu.edu/">Department of Network and Data Science</a> at the <a href="https://www.ceu.edu/">Central European University</a> (Vienna, Austria).
+
+I completed my Ph.D. in Computer Science at the <a href="https://is.mpg.de/">Max Planck Institute for Intelligent Systems</a> and the <a href="https://uni-tuebingen.de/">University of Tübingen</a>, supervised by <a href="https://www.cdebacco.com/">Dr.Caterina De Bacco</a>, with a doctoral dissertation entitled "Probabilistic Generative Models for Inference on Complex Systems". 
 
 🔍 My research focuses on the development of **statistical methods and algorithms to analyze network data**.
 
 🔗 If you want to know more about me, check my website: <a href="https://martinacontisciani.wixsite.com/mcontisciani">mcontisciani</a>
 
-📫 For any question, please do not hesitate to get in touch at: [martina.contisciani@tuebingen.mpg.de](mailto:martina.contisciani@tuebingen.mpg.de?subject=Get%20in%20touch)
+📫 For any question, please do not hesitate to get in touch at: [ContiscianiM@ceu.edu](mailto:ContiscianiM@ceu.edu?subject=Get%20in%20touch)
 
 
 <!--

@@ -8,7 +8,7 @@ I completed my Ph.D. in Computer Science at the <a href="https://is.mpg.de/">Max
 
 🔗 If you want to know more about me, check my website: <a href="https://martinacontisciani.wixsite.com/mcontisciani">mcontisciani</a>
 
-📫 For any question, please do not hesitate to get in touch at: [ContiscianiM@ceu.edu](mailto:ContiscianiM@ceu.edu?subject=Get%20in%20touch)
+📫 For any question, please do not hesitate to get in touch at: [contiscianim@ceu.edu](mailto:ContiscianiM@ceu.edu?subject=Get%20in%20touch)
 
 
 <!--

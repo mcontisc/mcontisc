@@ -6,7 +6,7 @@ I completed my Ph.D. in Computer Science at the <a href="https://is.mpg.de/">Max
 
 🔍 My research focuses on the development of **statistical methods and algorithms to analyze network data**.
 
-🔗 If you want to know more about me, check my website: <a href="https://martinacontisciani.wixsite.com/mcontisciani">mcontisciani</a>
+🔗 If you want to know more about me, check my website: <a href="https://mcontisc.github.io/">mcontisc.github.io</a>
 
 📫 For any question, please do not hesitate to get in touch at: [contiscianim@ceu.edu](mailto:ContiscianiM@ceu.edu?subject=Get%20in%20touch)
 
